@@ -9,4 +9,6 @@ El trabajo se llevo a cabo de la siguiente manera:
 |@Juanes8 |	Propuesta de tema, graficas de datos, pronostico|
 
 ## Referencias
+Datos obtenidos del Módulo 1 del Diplomado de Modelos Estadísticos para Economía, Finanzas y Negocios del Itam 2020-2021
 
+Consulta a compañera Marian Shanti del ITAM de la ingeniera en Negocios

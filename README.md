@@ -5,7 +5,7 @@ El trabajo se llevo a cabo de la siguiente manera:
 
 |User| Trabajo|
 |:---:|:---:|
-|@alex-1707|	Propuesta de variables, compartir base de datos, regresión lineal|
+|@alex-1707|	Propuesta de variables, compartir base de datos, regresión logit|
 |@Juanes8 |	Propuesta de tema, graficas de datos, pronostico|
 
 ## Referencias
